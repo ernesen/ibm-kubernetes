@@ -1,0 +1,7 @@
+Setup Keycloak as an Identity Provider & OpenID Connect Token Issuer
+https://www.youtube.com/watch?v=NZI3C6vdjQk&list=PLShDm2AZYnK22Gqm5UJJ5WlUm48AYhHQ_&index=4
+
+https://github.com/etiennedi/keycloak-nginx-https-self
+
+
+

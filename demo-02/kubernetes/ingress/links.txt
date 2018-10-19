@@ -1,0 +1,5 @@
+Create a Kubernetes TLS Ingress from scratch in Minikube
+https://www.youtube.com/watch?v=7K0gAYmWWho&index=3&list=PLQBwit5QzE-0IKIDVcloAwL6sZfp4N1ei
+
+How To Remove Docker Images, Containers, and Volumes 
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes

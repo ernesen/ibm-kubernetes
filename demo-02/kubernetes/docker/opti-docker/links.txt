@@ -1,0 +1,3 @@
+Proper DOCKER CACHING: Speed up your build with this optimized Dockerfile
+https://www.youtube.com/watch?v=oZ9nyCWERYc&list=PLShDm2AZYnK3W83HAKZQzrEEh2p4_9fiw&index=2
+
